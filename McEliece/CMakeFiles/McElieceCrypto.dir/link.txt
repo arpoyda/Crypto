@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/McElieceCrypto.dir/main.cpp.o -o McElieceCrypto  -Wl,-rpath,/home/arpoyda/Documents/mceliece libMcElieceCryptoLib.so -lpthread 

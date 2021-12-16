@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arpoyda/Documents/mceliece/GaloisField.cpp
+GaloisField.h
+/home/arpoyda/Documents/mceliece/GaloisField.h
+stack
+-
+iostream
+-
+McEliceCryptoC.h
+/home/arpoyda/Documents/mceliece/McEliceCryptoC.h
+
+/home/arpoyda/Documents/mceliece/GaloisField.h
+cinttypes
+-
+array
+-
+string
+-
+tuple
+-
+vector
+-
+optional
+-
+iostream
+-
+map
+-
+deque
+-
+cassert
+-
+random
+-
+
+/home/arpoyda/Documents/mceliece/McEliceCryptoC.h
+
